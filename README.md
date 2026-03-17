@@ -8,3 +8,9 @@
 
 ## [cite_start]Ejecución [cite: 30]
 [cite_start]Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main. [cite: 31]
+
+## Estructura del proyecto
+* [cite_start]src/Main.java: clase principal de la aplicación. [cite: 109]
+* [cite_start]docs/plan.md: nota breve con la finalidad del proyecto. [cite: 110]
+* [cite_start].gitignore: exclusiones de archivos no necesarios. [cite: 111]
+* [cite_start]README.md: documentación básica del proyecto. [cite: 112]
